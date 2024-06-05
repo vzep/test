@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="https://www.freesfans.com/videos/202401/04/6596de904b073e7784868beb/ts.key",IV=0x00000000000000000000000000000000
+#EXTINF:4.004000,
+https://www.freesfans.com/videos/202401/04/6596de904b073e7784868beb/9408e8/index0.ts
+#EXTINF:4.004000,
+https://www.freesfans.com/videos/202401/04/6596de904b073e7784868beb/9408e8/index1.ts
+#EXTINF:4.004000,
+https://www.freesfans.com/videos/202401/04/6596de904b073e7784868beb/9408e8/index2.ts
+#EXTINF:4.004000,
+https://www.freesfans.com/videos/202401/04/6596de904b073e7784868beb/9408e8/index3.ts
+#EXTINF:4.004000,
+https://www.freesfans.com/videos/202401/04/6596de904b073e7784868beb/9408e8/index4.ts
+#EXT-X-ENDLIST
